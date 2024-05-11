@@ -1,30 +1,20 @@
 # Ex.10 Responsive Web Design using Bootstrap
-## Date:
-
+## Date:3-05-2024
 ## AIM:
 To design a responsive website for a Pharmaceutical Company using Bootstrap.
-
-
 ## DESIGN STEPS:
-
 ### Step 1:
 Clone the repository from GitHub.
-
 ### Step 2:
 Create Django Admin project.
-
 ### Step 3:
 Create a New App under the Django Admin project.
-
 ### Step 4:
 Insert the necessary CSS and JavaScript files as external in order to use Bootstrap.
-
 ### Step 5:
 Create a HTML file and include the needed Bootstrap components.
-
 ### Step 6:
 Publish the website in the LocalHost.
-
 ## PROGRAM :
 ## home.html
 ```
@@ -57,7 +47,6 @@ Publish the website in the LocalHost.
   </style>
 </head>
 <body>
-
   <!-- Navbar -->
   <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
     <a class="navbar-brand" href="#">PharmEasy Company</a>
@@ -90,7 +79,6 @@ Publish the website in the LocalHost.
       </ul>
     </div>
   </nav>
-
   <!-- Page Content -->
   <div class="container mt-5">
     <div class="row">
@@ -103,7 +91,6 @@ Publish the website in the LocalHost.
       </div>
     </div>
   </div>
-
   <!-- Footer -->
   <footer class="bg-dark text-white text-center py-4 mt-5">
     <p>&copy; 2024 PharmEasy Company. All rights reserved.</p>
@@ -115,7 +102,6 @@ Publish the website in the LocalHost.
   <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
 </body>
 </html>
-
 ```
 ## about.html
 ```
@@ -155,7 +141,6 @@ Publish the website in the LocalHost.
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
-
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <ul class="navbar-nav mr-auto">
         <li class="nav-item">
@@ -181,7 +166,6 @@ Publish the website in the LocalHost.
       </ul>
     </div>
   </nav>
-
   <!-- Page Content -->
   <div class="container mt-5">
     <div class="row">
@@ -209,12 +193,10 @@ Publish the website in the LocalHost.
       </div>
     </div>
   </div>
-
   <!-- Footer -->
   <footer class="bg-dark text-white text-center py-4 mt-5">
     <p>&copy; 2024 PharmEasy Company. All rights reserved.</p>
   </footer>
-
   <!-- Bootstrap JS -->
   <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script>
@@ -253,14 +235,12 @@ Publish the website in the LocalHost.
   </style>
 </head>
 <body>
-
   <!-- Navbar -->
   <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
     <a class="navbar-brand" href="#">PharmEasy Company</a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
-
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <ul class="navbar-nav mr-auto">
         <li class="nav-item">
@@ -286,7 +266,6 @@ Publish the website in the LocalHost.
       </ul>
     </div>
   </nav>
-
   <!-- Page Content -->
   <div class="container mt-5">
     <div class="row">
@@ -321,12 +300,10 @@ Publish the website in the LocalHost.
       </div>
     </div>
   </div>
-
   <!-- Footer -->
   <footer class="bg-dark text-white text-center py-4 mt-5">
     <p>&copy; 2024 PharmEasy Company. All rights reserved.</p>
   </footer>
-
   <!-- Bootstrap JS -->
   <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script>
@@ -372,7 +349,6 @@ Publish the website in the LocalHost.
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
-
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <ul class="navbar-nav mr-auto">
         <li class="nav-item">
@@ -390,7 +366,6 @@ Publish the website in the LocalHost.
       </ul>
     </div>
   </nav>
-
   <!-- Page Content -->
   <div class="container mt-5">
     <div class="row">
@@ -427,12 +402,10 @@ Publish the website in the LocalHost.
       </div>
     </div>
   </div>
-
   <!-- Footer -->
   <footer class="bg-dark text-white text-center py-4 mt-5">
     <p>&copy; 2024 PharmEasy Company. All rights reserved.</p>
   </footer>
-
   <!-- Bootstrap JS -->
   <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script>
@@ -440,17 +413,10 @@ Publish the website in the LocalHost.
 </body>
 </html>
 ```
-
 ## OUTPUT:
 ![Screenshot (67)](https://github.com/Dhanusha17/Pharma/assets/151549957/740ec942-7396-477e-a28b-55af3de0ad07)
-
 ![Screenshot (68)](https://github.com/Dhanusha17/Pharma/assets/151549957/f79599ee-7b10-471e-8a20-add3da4c9c20)
-
 ![Screenshot (69)](https://github.com/Dhanusha17/Pharma/assets/151549957/cfc32386-f555-4cba-a695-9272980f7ba0)
-
 ![Screenshot (70)](https://github.com/Dhanusha17/Pharma/assets/151549957/5ddf508c-e935-483e-b349-0fde3912a926)
-
-
-
 ## RESULT:
 The program for responsive web design using Bootstrap is completed successfully.
